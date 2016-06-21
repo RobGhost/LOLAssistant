@@ -1,0 +1,8 @@
+platform:ios,'9.3'
+target 'LOLBox' do
+pod 'FMDB'
+pod 'Reachability'
+pod 'SDCycleScrollView'
+pod 'MJRefresh'
+pod 'SDWebImage'
+end
